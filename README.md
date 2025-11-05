@@ -7,9 +7,11 @@
 
 # How does it work and how can i use it?
 ## Great question young one! So basically:
-- Upon installment you need to create a folder within the same directory as the "main.py" file and name it "Docs"
+- Upon installment you need to create a folder within the same directory as the "main(standalone).py" file and name it "Docs"
 - Start the app (if everything is set correctly; icon file is in the same directory as main.py and the folder "Docs")
 - Use the app and do shit, it's pretty fun!
 
 # Why did you make this?
 ## Shut up this took me, uhh, a day or something
+
+## Oh and btw ignore "GoldNote(network).py" That's for client based communications if you have a server
